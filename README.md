@@ -1,6 +1,6 @@
-# 24个国内外ChatGPT镜像网站推荐（2024/5/23）
+# 23个国内外ChatGPT镜像网站推荐（2024/5/23）
 
-汇总了24个国内外的ChatGPT镜像网站，帮助大家找到适合自己的访问途径，特别是在官方站点不可用时。
+汇总了23个国内外的ChatGPT镜像网站，帮助大家找到适合自己的访问途径，特别是在官方站点不可用时。
 
 ## 什么是ChatGPT镜像网站？
 
@@ -31,7 +31,7 @@ ChatGPT 镜像网站是与官方网站内容相同或相似的备份网站，可
 21. [https://tongyi.aliyun.com](https://tongyi.aliyun.com)
 22. [https://chat-ppt.com](https://chat-ppt.com)
 23. [https://chatexcel.com](https://chatexcel.com)
-24. [https://kimi.moonshot.cn](https://kimi.moonshot.cn)
+
 
 
 
